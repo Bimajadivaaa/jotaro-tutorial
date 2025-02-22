@@ -10,4 +10,5 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="[https://postimg.cc/K1ky0qfW](https://github.com/user-attachments/assets/c62a7b26-766c-455c-9c85-20ae377c2e2b)" alt="project-screenshot" width="400" height="400/">
+![image](https://github.com/user-attachments/assets/828c3075-f58f-4e21-8b1f-3e441c157f8b)
+
