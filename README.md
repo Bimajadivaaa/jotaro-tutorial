@@ -11,6 +11,12 @@ wearelazydev is a cutting-edge platform where developers earn rewards through Pu
 ## 📸 Project Screenshots
 ![image](https://github.com/user-attachments/assets/828c3075-f58f-4e21-8b1f-3e441c157f8b)
 
+![image](https://github.com/user-attachments/assets/89f05189-3d42-4eaa-9b98-82b4f0651592)
+
+![image](https://github.com/user-attachments/assets/f82c814a-f304-469b-a5f8-5d6ec7fb8336)
+
+
+
 ## 🛠 Problems wearelazydev Solves
 ### Manual Claiming
 Traditional bounty platforms have tedious claim processes. wearelazydev automates this by allowing developers to receive rewards immediately upon validation.
